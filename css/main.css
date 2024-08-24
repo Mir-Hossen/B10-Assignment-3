@@ -2,3 +2,15 @@
 {
     font-family: "Manrope", sans-serif;
 }
+/* .faq-bg-img
+{
+    background:linear-gradient(45deg,rgba(255, 255, 255, 0.759),rgba(255, 255, 255, 0.605)), url(/assets/faq-bg-img.jpg);
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+.faq
+{
+    background: #ffffff66;
+    backdrop-filter: blur(80px);
+}
